@@ -1,0 +1,39 @@
+1) what is your understanding about blockchain?
+--> Blockchain technology enables distributed public ledgers that hold immutable data in a secure and encrypted way and ensure that transactions can never be altered.
+--> we can also called blockchain as same set of data which are stored in different computers in different places
+--> It is also used to prevent from data getting hacked , to boost high security transparency, and decentralization. 
+
+2) what is core Problem blockchain trying to solve?
+-->Currency and Transaction Support
+-->Supply Chains and Item Histories
+-->Voting
+-->Government Operations
+-->Intellectual Property
+-->Real Estate
+-->charity
+
+
+3)what are the few features blockchain will give u ?
+-->Cannot be Corrupted
+-->Decentralized Technology
+-->Enhanced Security
+-->Distributed Ledgers
+-->Faster Settlement
+
+4)what all things blockchain contain?
+-->The Blockchain is a database, which is distributed among all nodes.
+-->No one or several nodes control the Blockchain.
+-->All nodes are able to validate a transaction.
+-->All communication on the Blockchain is p2p.
+-->All transactions occurring on a Blockchain are recorded there, so the transactions of any person using the network are public and completely transparent, even though they may be anonymous.
+-->Once a transaction is recorded on the Blockchain and the Blockchain has updated, then that transaction cannot be altered.
+-->No one person or organization can turn off a Blockchain.
+
+5) How is verifiability of blockchain is attained ?
+-->In Blockchain Verifiability can be achived by following points :
+   Data
+   Previous fingerprints
+   Current fingerprints
+   consider an example of Banking Transaction,when Transaction is done by specific customer Transaction history get stotred in specfic block and generate Current finger prints,
+   after certain period of again he does a Transaction this time transaction history is stored in another block with previous finger prints as well as current finger prints in 
+   this way we can achieve a Verifiability.
